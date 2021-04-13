@@ -15,30 +15,30 @@ Often the easiest first job to get is in consulting if you don't have a strong C
 ## Core CS - Most interviews are very very data structures and algorithms structured
 
 ### Awesome places to learn relevant skills and have fun:
-The Construct - ROS -based Community
+* The Construct - ROS -based Community
 
 #### Supplemental
-Self-Driving Cars with DuckieTown
-Udacity Self-Driving Car Engineer Nanodegree
+* Self-Driving Cars with DuckieTown
+* Udacity Self-Driving Car Engineer Nanodegree
 
 ### Intro to CS
-Oregon State CS161 - http://classes.engr.oregonstate.edu/eecs/winter2020/cs161-020/index.html
+* Oregon State CS161 - http://classes.engr.oregonstate.edu/eecs/winter2020/cs161-020/index.html
 
 ### Data Structures and Algorithms
-LeetCode Plus
+* LeetCode Plus
 
 #### Supplemental
-Stepkik?
-CU Boulder MS Data Science Track - TBD
-UIUC Accelerated CS Fundamentals in C++ -
+* Stepkik?
+* CU Boulder MS Data Science Track - TBD
+* UIUC Accelerated CS Fundamentals in C++ -
 
 ### Computer Architecture and Assembly
-Nand to Tetris
+* Nand to Tetris
 
 ## Math Core
 
 ### Introductory Math
-Data Science Math Skills - Coursera
+* Data Science Math Skills - Coursera
 
 
 
